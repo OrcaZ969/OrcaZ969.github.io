@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      "Outils utils pour démarrer Linux"
@@ -9,7 +8,6 @@ header-img:
 tags:
     - Linux
 ---
-```
 
 ## 1.Commandes de base - gestionnaire de fichier
 
