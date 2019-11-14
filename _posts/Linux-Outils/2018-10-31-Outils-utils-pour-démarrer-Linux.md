@@ -2,11 +2,13 @@
 layout:     post
 title:      "Outils utils pour démarrer Linux"
 subtitle:   "gestionnaire de fichier, droits d'accès et autres"
-date:       2015-10-31 12:00:00
+date:       2018-10-31 12:00:00
 author:     "Mengxin"
+lang:	    fr
 header-img: 
 tags:
     - Linux
+    - note
 ---
 
 ## 1.Commandes de base - gestionnaire de fichier
