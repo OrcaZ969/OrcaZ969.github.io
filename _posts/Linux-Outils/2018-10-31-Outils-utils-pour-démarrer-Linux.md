@@ -1,8 +1,18 @@
-| layout | title                            | date       | author | header-img | lang | tags  |
-| ------ | -------------------------------- | ---------- | ------ | ---------- | ---- | ----- |
-| post   | Outils utils pour démarrer Linux | 2018-10-31 | Hux    |            | fr   | Linux |
+```
+---
+layout:     post
+title:      "Outils utils pour démarrer Linux"
+subtitle:   "gestionnaire de fichier, droits d'accès et autres"
+date:       2015-10-31 12:00:00
+author:     "Mengxin"
+header-img: 
+tags:
+    - Linux
+---
+```
 
 ## 1.Commandes de base - gestionnaire de fichier
+
 ### cp(copy) 
 Copy a fiche or directory
 
