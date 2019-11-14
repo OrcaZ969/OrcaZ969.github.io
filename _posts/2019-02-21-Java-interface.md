@@ -2,7 +2,7 @@
 layout:     post
 title:      "Java interface"
 subtitle:   
-date:       2015-02-21 12:00:00
+date:       2018-02-21 12:00:00
 author:     "Mengxin"
 lang:       zh
 header-img: 
