@@ -3,9 +3,9 @@ title: An orca's tech blogs and her life
 SEOTitle: OrcaZ969 blog
 header-img: img/home-bg.jpg
 email: mengxin.zhang@insa-lyon.fr
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: ""
+keyword: ""
+url: "orcaloves.tech"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -17,8 +17,8 @@ RSS: false
 #zhihu_username:     huxpro
 github_username:    OrcaZ969
 #twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+facebook_username:  untraveledz
+linkedin_username:  mengxin-zhang-843028160
 
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: OrcaZ969
 
 # Netease settings
 netease_comment: false
@@ -71,15 +71,15 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id:          # Format: UA-xxxxxx-xx
+ga_domain: 
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Franglish expert<br>偽日本語専門家"
-sidebar-avatar: /img/selfie.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
