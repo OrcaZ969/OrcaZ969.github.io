@@ -2,10 +2,6 @@
 | ------ | -------------------------------- | ---------- | ------ | ---------- | ---- | ----- |
 | post   | Outils utils pour démarrer Linux | 2018-10-31 | Hux    |            | fr   | Linux |
 
-[TOC]
-
-
-
 ## 1.Commandes de base - gestionnaire de fichier
 ### cp(copy) 
 Copy a fiche or directory
