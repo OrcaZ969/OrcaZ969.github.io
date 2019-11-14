@@ -5,6 +5,7 @@ subtitle:
 date:       2019-11-06
 author:     "Mengxin"
 lang:       en
+catalog:    true
 tags:
     - Git
     - Dev
