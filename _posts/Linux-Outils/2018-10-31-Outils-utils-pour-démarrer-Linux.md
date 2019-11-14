@@ -5,6 +5,7 @@ subtitle:   "gestionnaire de fichier, droits d'accès et autres"
 date:       2018-10-31 12:00:00
 author:     "Mengxin"
 lang:	    fr
+header-style:text
 header-img: 
 tags:
     - Linux
