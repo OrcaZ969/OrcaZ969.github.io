@@ -5,8 +5,6 @@ subtitle:
 date:       2019-11-06
 author:     "Mengxin"
 lang:       en
-header-img: 
-header-style:text
 tags:
     - Git
     - Dev
