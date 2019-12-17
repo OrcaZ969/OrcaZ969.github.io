@@ -2,7 +2,6 @@
 layout:     post
 title:      "Get a linux terminal under win10"
 subtitle:   "using microsoft new Windows Terminal and WSL2"
-date:       2019-12-29 03:31:00
 author:     "Mengxin"
 lang:       en
 tags:
