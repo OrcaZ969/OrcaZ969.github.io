@@ -9,8 +9,6 @@ tags:
  - Dev
 ```
 
-
-
 ## Getting a Linux Distro
 
 ### Install the Windows Terminal:
